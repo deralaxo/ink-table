@@ -1,9 +1,12 @@
 {
-  "name": "ink-table",
+  "name": "@deralaxo/ink-table",
   "version": "0.0.0-development",
   "description": "A table component for Ink.",
   "main": "dist/index.js",
-  "repository": "maticzav/ink-table",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticzav/ink-table.git"
+  },
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",
   "type": "module",
@@ -47,5 +50,14 @@
   "peerDependencies": {
     "ink": ">=3.0.0",
     "react": ">=16.8.0"
+  },
+  "types": "./dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/maticzav/ink-table/issues"
+  },
+  "homepage": "https://github.com/maticzav/ink-table#readme",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
   }
 }
