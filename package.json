@@ -6,6 +6,7 @@
   "repository": "maticzav/ink-table",
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "coverage": "codecov",

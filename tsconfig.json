@@ -3,8 +3,8 @@
     "rootDir": "src",
     "outDir": "dist",
 
-    "target": "es2019",
-    "module": "commonjs",
+    "target": "es2022",
+    "module": "Node16",
     "lib": ["dom", "es2017", "es2019"],
     "declaration": true,
     "declarationMap": true,
@@ -23,7 +23,7 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Module Resolution Options */
-    "moduleResolution": "node",
+    "moduleResolution": "node16",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "skipLibCheck": true
