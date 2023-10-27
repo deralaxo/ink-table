@@ -1,11 +1,11 @@
 {
   "name": "@deralaxo/ink-table",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "A table component for Ink.",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maticzav/ink-table.git"
+    "url": "git+https://github.com/deralaxo/ink-table.git"
   },
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",

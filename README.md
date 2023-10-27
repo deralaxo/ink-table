@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install ink-table
+npm install @deralaxo/ink-table
 ```
 
 ## Usage
